@@ -2,7 +2,9 @@ import React from 'react';
 
 const Footer: React.FC = () => {
   return (
-    <footer>Footer Content</footer>
+    <div>
+    <footer>Footer Content1</footer>
+    </div>
   );
 };
 
