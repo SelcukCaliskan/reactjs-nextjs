@@ -1,9 +1,10 @@
 import React from 'react';
 
 const Footer: React.FC = () => {
+    const footer : string = "Footer Content"
   return (
     <div>
-    <footer>Footer Content1</footer>
+    <footer>{footer}</footer>
     </div>
   );
 };
