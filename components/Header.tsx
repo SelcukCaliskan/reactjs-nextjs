@@ -2,13 +2,7 @@ import React from 'react';
 
 const Header: React.FC = () => {
   return (
-    <header>
-      <h1>My Next.js App</h1>
-      <nav>
-        <a href='/'>Home</a>
-        <a href='/about'>About</a>
-      </nav>
-    </header>
+    <header>Header Content</header>
   );
 };
 
