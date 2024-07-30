@@ -1,8 +1,11 @@
 import React from 'react';
 
 const Footer: React.FC = () => {
+    const footer : string = "Footer Content"
   return (
-    <footer>Footer Content</footer>
+    <div>
+    <footer>{footer}</footer>
+    </div>
   );
 };
 
